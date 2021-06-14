@@ -3,7 +3,7 @@
 
 
 ## General Information
-Developer: Kimberly Padilla
+Developer: Kimberly Padilla, Tianqi Xu
 
 The concept of this website is to teach specifically young teenagers, about the internet and the wars amongst the most well known companies they have come to know. The purpose is to shed insight into their history, how they began and the competition and obstacles they have encountered throughout the years.
 
@@ -11,13 +11,12 @@ The concept of this website is to teach specifically young teenagers, about the 
 
 ## Website General Information
 Website Title: ***Internet***
-  - Description:
+  - Description: In the website, we will give readers a comperhensive idea of how Internet was created and how it works. In addition, giving a internal views of the Internet War from people who still work or worked with those companies in the late 1980's to 2000's. 
   - Keywords:
 
 
-    > -
-    > -
-    > - 
+    > - _Invention of Internet_
+    > - _The Internet War_
 
 
 Hero Text: 
@@ -26,7 +25,9 @@ Hero Text:
 
 ## Website Main Menu and Side Bar Content / Side Bar Image 
 - *Home*
-- *Page 1*
+- *The Invention of Internet*
+  - Time line
+  - How does Internet works 
 - *Internet Wars: All You Need to Know* 
   - Internet Explorer vs. Netscape
 
@@ -37,14 +38,16 @@ Hero Text:
 
 
 ## Page 1
-- Page Title: 
-  - Description:
+- Page Title: ***The Invention of Internet***
+  - Description: The history of development of Internet start from early ninteen century. Including who created the Internet and where it come from, and some basic information of operation method.
   - Keywords:
 
 
-    > -
-    > -
-    > -
+    > - _First Generation Computer_
+    > - _Development_
+    > - _Challenges_
+    > - _Creators_
+    > - _Operations_
 
 
   - Page Layout: 
