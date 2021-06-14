@@ -51,7 +51,7 @@ Hero Text:
 
 
   - Page Layout: 
-  - Page Content: [Link here](www.github.com "GitHub")
+  - Page Content: [Link here](https://github.com/knp56/Internet-Website/blob/main/page1.md)
 
 
 
