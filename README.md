@@ -56,12 +56,11 @@ Hero Text: It's the Internets world, We're just living in it.
 
     > - _First Generation Computer_
     > - _Development_
-    > - _Challenges_
     > - _Creators_
-    > - _Operations_
+    > - _How Internet Work_
 
 
-  - Page Layout: 
+  - Page Layout: F
   - Page Content: [Link here](https://github.com/knp56/Internet-Website/blob/main/page1.md)
 
 
