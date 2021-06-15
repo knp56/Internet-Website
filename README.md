@@ -32,7 +32,7 @@ Hero Text:
   - Internet Explorer vs. Netscape
 
 
-     ![alt text](/desktop/Netscape-Logo-1024x640.png "Netscape")
+     <img src="images/Netscape-Logo-1024x640.png" width=100>
 - *About Page*
 
 
