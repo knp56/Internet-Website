@@ -21,7 +21,6 @@ Website Title: *IQ***Lord**
     > - _Invention of Internet_
     > - _The Internet War_
     
-    <img src="images//leon-seibert-2m71l9fA6mg-unsplash.jpg" width=100>
 
 
 Hero Text: It's the Internets world, We're just living in it.
@@ -33,6 +32,9 @@ Hero Text: It's the Internets world, We're just living in it.
 - *The Invention of Internet*
   - Time line
   - How does Internet works 
+
+ <img src="images//leon-seibert-2m71l9fA6mg-unsplash.jpg" width=100>
+ 
 - *Internet Wars: All You Need to Know* 
   - The Internet
   - Microsoft vs. Netscape
