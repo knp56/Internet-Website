@@ -1,4 +1,6 @@
-# *Web Page Metadata*
+<img align="left" width="80" height="80" src="images/internet-06.png">
+
+# *All You Can Learn: The Internet*
 ---
 
 
@@ -10,7 +12,8 @@ The concept of this website is to teach specifically young teenagers, about the 
 
 
 ## Website General Information
-Website Title: ***Internet***
+
+Website Title: *All You Can Learn: ***The Internet****
   - Description: In the website, we will give readers a comperhensive idea of how Internet was created and how it works. In addition, giving a internal views of the Internet War from people who still work or worked with those companies in the late 1980's to 2000's. 
   - Keywords:
 
@@ -19,7 +22,7 @@ Website Title: ***Internet***
     > - _The Internet War_
 
 
-Hero Text: 
+Hero Text: It's the Internets world, We're just living in it.
 
 
 
@@ -30,9 +33,14 @@ Hero Text:
   - How does Internet works 
 - *Internet Wars: All You Need to Know* 
   - Internet Explorer vs. Netscape
+  
 
-
+<<
+      <img src="images//google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" width=100> 
+      <img src="images//png-clipart-internet-explorer-internet-explorer.png" width=100> 
+      <img src="images//unnamed.png" width=100> 
      <img src="images/Netscape-Logo-1024x640.png" width=100>
+>>
 - *About Page*
 
 
