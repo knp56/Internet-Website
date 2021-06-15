@@ -35,14 +35,12 @@ Hero Text: It's the Internets world, We're just living in it.
   - Internet Explorer vs. Netscape
   
 
-     ![alt text](/desktop/Netscape-Logo-1024x640.png "Netscape")
-     
+<<
       <img src="images//google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" width=100> 
-      
-      
       <img src="images//png-clipart-internet-explorer-internet-explorer.png" width=100> 
       <img src="images//unnamed.png" width=100> 
-      
+     <img src="images/Netscape-Logo-1024x640.png" width=100>
+>>
 - *About Page*
 
 
