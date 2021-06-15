@@ -9,7 +9,7 @@ Developer: Kimberly Padilla, Tianqi Xu
 
 The concept of this website is to teach specifically young teenagers, about the internet and the wars amongst the most well known companies they have come to know. The purpose is to shed insight into their history, how they began and the competition and obstacles they have encountered throughout the years.
 
-
+&nbsp;
 
 ## Website General Information
 
@@ -26,7 +26,7 @@ Website Title: *IQ***Lord**
 
 Hero Text: It's the Internets world, We're just living in it.
 
-
+&nbsp;
 
 ## Website Main Menu and Side Bar Content / Side Bar Image 
 - *Home*
@@ -46,7 +46,7 @@ Hero Text: It's the Internets world, We're just living in it.
 
 - *About Page*
 
-
+&nbsp;
 
 ## Page 1
 - Page Title: ***The Invention of Internet***
@@ -63,7 +63,7 @@ Hero Text: It's the Internets world, We're just living in it.
   - Page Layout: F
   - Page Content: [Link here](https://github.com/knp56/Internet-Website/blob/main/page1.md)
 
-
+&nbsp;
 
 ## Page 2
 - Page Title: ***Internet Wars: All You Need to Know***
@@ -84,7 +84,7 @@ Hero Text: It's the Internets world, We're just living in it.
   - Page Layout: F 
   - Page Content: [Link here](https://github.com/knp56/Internet-Website/edit/main/page2.md)
 
-
+&nbsp;
 
 ## Footer
 - **Explore**
@@ -95,7 +95,7 @@ Hero Text: It's the Internets world, We're just living in it.
   - Email: internet@gmail.com
   - Tel: 862-999-0000
 
-
+&nbsp;
 
 ## About Page 
 - Page Title: ***About Me***
