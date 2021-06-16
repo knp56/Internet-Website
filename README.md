@@ -112,5 +112,5 @@ Hero Text: It's the Internets world, We're just living in it.
   
   
   - Page Layout: F 
-  - Page Content: [Link here](https://github.com/knp56/Internet-Website/edit/main/about.md)
+  - Page Content: [Link here](https://github.com/knp56/Internet-Website/blob/main/about.md)
 
